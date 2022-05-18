@@ -23,4 +23,4 @@ function findLongestWordLength(str) {
 
 console.log(findLongestWordLength("Google do a barrel roll"));
 
-/* In the second take above, I first started by splitting the string, then chained the ,map method which creates a new array (of the length of words) from every word in the array of words. I then preceded the code with the spread syntax and Math.max
+/* In the second take above, I first started by splitting the string, then chained the ,map method which creates a new array (of the length of words) from every word in the array of words. I then preceded the code with the spread syntax and Math.max*/
