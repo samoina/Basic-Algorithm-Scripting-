@@ -26,4 +26,6 @@ console.log(titleCase("HERE IS MY HANDLE HERE IS MY SPOUT"));
 4. Convert that first letter to uppercase then use splice to remove the first element and replace it with the capital letter.
 5. Join the character array to form words in string.
 6. Use the variable defined for an empty string to build on using the words and return it
+NB: Because I wasnt sure how to get rid of the space, I sliced the first character.
+
 */
